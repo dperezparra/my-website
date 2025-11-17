@@ -31,85 +31,58 @@ profiles:
   - icon: brands/github
     url: https://github.com/dperezparra
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/andrearouchon/
+    url: https://www.linkedin.com/in/daniel-pérez-parra
 
 interests:
   - Development Economics
-  - Political Economy
-  - Applied microeconomics
-  - Econometrics
-  - China
-  - Corruption
-  - Investment
+  - Applied Microeconomics
+  - Harmful Cultural Norms
+  - Economics of Education
+  - Security Provision
 
 education:
   - area: PhD - Economics
     institution: Érudite - Université Gustave Eiffel
     icon: ""
-    date_start: 2025-09-01
-    date_end: 2028-08-31
+    date_start: 2022-09-01
+    date_end: 2025-10-01
     summary: |
-      - Thesis: Corruption and Economic Distortions: The Example of China 
-      - Supervisors: Mélika Ben Salem • Marin Ferry
+      - Thesis: Essays on the Persistence of Harmful Cultural Practices in West Africa 
+      - Supervisors: Marine de Talancé • Catherine Bros
   - area: MSc - Development Economics and International Project Management
     institution: Université Gustave Eiffel
     icon: ""
-    date_start: 2024-09-01
-    date_end: 2025-05-31
-    summary: |
-      - Track: Impact Evaluation
-      - Thesis: Public Debt and Firm Performance: A Love-Hate Relationship?
-      - Field Mission: "The LeadHer Initiative: Empowering Women by expanding their job opportunities", in partnership with The High Atlas Foundation
-      - Digital Methods and Data Sprint 2025, University of Amsterdam
-      - Key courses: Applied Econometrics • Impact Evaluation • Informal Sector
-  - area: MSc - Development Economics
-    institution: Université Paris 1 Panthéon-Sorbonne
-    icon: ""
-    date_start: 2022-09-01
-    date_end: 2024-05-31
-    summary: |
-      - Track: Research
-      - Thesis: Debt and Growth: Evidence from Firm-Level Data
-      - Thesis: The Role of Religious Organizations in Aid Distribution
-      - Key courses: Econometrics and Impact Evaluation • Development Theory (Microeconomics • Macroeconomics and Historical Perspective) • Institutions, Governance and Development •Firm Performance and Development • Foreign Aid, Debt and Development
-  - area: BSc - Economics
-    institution: Université Paris 1 Panthéon-Sorbonne
-    icon: ""
-    date_start: 2019-09-01
+    date_start: 2020-09-01
     date_end: 2022-05-31
     summary: |
-      - Thesis: The Impect of Climate Change on Migration Flows
+      - Track: Impact Evaluation
+      - Thesis: Child Marriage, Law Reforms and Female Education: Evidence from Ethiopia
+  - area: BSc - Economics and International Business
+    institution: Universidad de Alcalá
+    icon: ""
+    date_start: 2016-09-01
+    date_end: 2020-05-31
 
 work:
-  - position: Teaching Assistant
+  - position: Lecturer
     company_name: Université Gustave Eiffel
     company_url: 'https://www.univ-gustave-eiffel.fr/'
     icon: ''
-    date_start: 2025-09-01
+    date_start: 2026-01-01
     date_end: 2026-05-31
     summary: |
-      - Course: Growth
-      - Level: third-year undergraduate students
-      - Coordinator: Manon Domingues Dos Santos
-  - position: Research Intern
-    company_name: Érudite
+      - Course: Impact Evaluation Methods
+      - Level: second-year master students
+  - position: Teaching Assistant
+    company_name: Université Gustave Eiffel
     company_url: 'https://erudite.univ-paris-est.fr/'
     icon: ''
-    date_start: 2024-03-01
-    date_end: 2025-03-01
+    date_start: 2026-01-01
+    date_end: 2026-05-01
     summary: |
-      - Supervisor: Marin Ferry
-  - position: Teaching Assistant
-    company_name: Université Paris 1 Panthéon-Sorbonne
-    company_url: 'https://www.pantheonsorbonne.fr/'
-    icon: ''
-    date_start: 2024-01-01
-    date_end: 2024-05-31
-    summary: |
-      - Course: Social Protection
+      - Course: Microeconomics I
       - Level: first-year undergraduate students
-      - Coordinator: Isabelle Hirtzlin
-
+      
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
