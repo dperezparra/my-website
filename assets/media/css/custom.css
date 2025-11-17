@@ -1,0 +1,6 @@
+/* Color the role line in author cards/blocks */
+.hb-author .role,
+.resume-biography .role,
+.author .role {
+  color: var(--color-primary) !important;
+}
