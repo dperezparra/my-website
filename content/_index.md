@@ -24,7 +24,7 @@ sections:
         </div>
     button:
       text: Download my CV
-      url: uploads/CV_2025_06_vfrançaise.pdf
+      url: uploads/CV_EN-28.pdf
 
       # Show a call-to-action button under your biography? (optional)
     design:
