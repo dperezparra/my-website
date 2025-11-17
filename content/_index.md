@@ -13,16 +13,12 @@ sections:
     content:
       username: admin
       text: |
-        Welcome to my personal site! I am Daniel Pérez-Parra, PhD student in Economics at the Université Gustave Eiffel (Érudite), supervised by Marine de Talancé and Catherine Bros. I was a Visiting PhD student at the University of Oxford (CSAE) in 2024, invited and supervised by Stefan Dercon.
-        
-        My thesis examines the impact of public policies on harmful traditional norms and gender-based violence in West Africa. Using geospatial data and impact evaluation techniques, I analyse which policies are effective in eradicating female genital cutting, child marriage, and intimate partner violence.
-        
-        I am currently working as a Short-Term Consultant for the Africa Gender Innovation Lab at the World Bank. Previously, I worked as a Research Assistant for Noam Angrist and Jorge García-Hombrados, and as a Research Consultant for What Works Hub for Global Education at the Blavatnik School of Government, University of Oxford.
+        "<p class='text-center'>Welcome to my personal site! I am Daniel Pérez-Parra, a third-year PhD student in Economics at the Université Gustave Eiffel (ÉRUDITE) & the Université de Tours (LÉO) supervised by Marine de Talancé and Catherine Bros. I was a Visiting PhD student at the University of Oxford (CSAE) in 2024, invited and supervised by Stefan Dercon. My thesis examines the impact of public policies on harmful traditional norms and gender-based violence in West Africa. Using geospatial data and impact evaluation techniques, I analyse which policies are effective in eradicating female genital cutting, child marriage, and intimate partner violence. I am currently working as a Short-Term Consultant for the Africa Gender Innovation Lab at the World Bank. Previously, I worked as a Research Assistant of Noam Angrist and Jorge García-Hombrados, and as a Research Consultant for What Works Hub for Global Education at the Blavatnik School of Government, University of Oxford.</p>"
         
       button:
         text: Download my CV
         url: uploads/CV_EN-28.pdf
-        
+
       # Show a call-to-action button under your biography? (optional)
     design:
       # Apply a gradient background
