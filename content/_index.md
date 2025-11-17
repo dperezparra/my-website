@@ -21,8 +21,7 @@ sections:
 
         I am currently working as a Short-Term Consultant for the Africa Gender Innovation Lab at the World Bank. Previously, I worked as a Research Assistant for Noam Angrist and Jorge García-Hombrados, and as a Research Consultant for What Works Hub for Global Education at the Blavatnik School of Government, University of Oxford.
 
-        </div>
-        
+        </div> 
     button:
       text: Download my CV
       url: uploads/CV_EN-28.pdf

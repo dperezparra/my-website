@@ -72,7 +72,7 @@ work:
     date_end: 2026-05-31
     summary: |
       - Course: Impact Evaluation Methods
-      - Level: second-year master students
+      - Level: Second-year master students
   - position: Teaching Assistant
     company_name: Université Gustave Eiffel
     company_url: 'https://erudite.univ-paris-est.fr/'
@@ -81,14 +81,14 @@ work:
     date_end: 2026-05-01
     summary: |
       - Course: Microeconomics I
-      - Level: first-year undergraduate students
-      
+      - Level: First-year undergraduate students
+
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: ''
     items:
-      - name: Python
+      - name: Stata
         description: ''
         percent: 100
         icon: code-bracket
@@ -97,11 +97,7 @@ skills:
         percent: 100
         icon: chart-bar
   - name: ''
-    items:
-      - name: Stata
-        description: ''
-        percent: 100
-        icon: code-bracket
+    item:
       - name: LaTeX
         description: ''
         percent: 100
@@ -111,7 +107,7 @@ languages:
   - name: English
     percent: 100
   - name: French
-    percent: 100
+    percent: 80
   - name: Spanish
-    percent: 50
+    percent: 100
 ---
