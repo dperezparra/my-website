@@ -25,6 +25,26 @@ sections:
         text: Download my CV
         url: uploads/CV_EN-28.pdf
 
+      
+      # Page sections
+sections:
+  - block: resume-experience
+    content:
+      username: admin
+    design:
+      date_format: 'January 2006'
+      is_education_first: true
+  - block: resume-skills
+    content:
+    title: Coding skills
+    username: admin
+    design:
+       show_skill_percentage: true
+  - block: resume-languages
+    content:
+      title: Languages
+      username: admin
+
       # Show a call-to-action button under your biography? (optional)
     design:
       # Apply a gradient background
@@ -40,25 +60,3 @@ sections:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
       design:
-    
-# Note: `username` refers to the user's folder name in `content/authors/`
-
-# Page sections
-    sections:
-      - block: resume-experience
-        content:
-          username: admin
-        design:
-          date_format: 'January 2006'
-          is_education_first: true
-      - block: resume-skills
-        content:
-        title: Coding skills
-        username: admin
-       design:
-          show_skill_percentage: true
-      - block: resume-languages
-        content:
-          title: Languages
-          username: admin
----
