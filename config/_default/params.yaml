@@ -36,13 +36,10 @@ header:
     show_search: true
     show_theme_chooser: true
     show_language: false
-    logo:
-      filename: 'erudite-logo.svg'
-
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Andrea Rouchon. This work is licensed under {license}'
+    notice: '© {year} Daniel Pérez-Parra. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
