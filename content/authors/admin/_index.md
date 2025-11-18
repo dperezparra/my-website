@@ -15,12 +15,13 @@ highlight_name: true
 # Role/position/tagline
 role: PhD Candidate in Economics
 
-# Organizations/Affiliations to display in Biography blox
+# Organizations/Affiliations to display in Biography block
 organizations:
   - name: Université Gustave Eiffel
     url: https://www.univ-gustave-eiffel.fr/
   - name: Érudite
     url: https://erudite.univ-paris-est.fr/
+
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
