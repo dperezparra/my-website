@@ -1,0 +1,52 @@
+---
+title: 'Fieldwork'
+date: 2023-10-24
+type: landing
+
+design:
+  spacing: '5rem'
+
+# Note: `username` refers to the user's folder name in `content/authors/`
+
+# Page sections
+
+<div class="blurb">
+
+			<br>
+			
+        		<h1> Publications </h1>
+
+				<p>	
+				Migration and the Epidemiological Approach: Time and Self-Selection into Foreign Ancestries Matter, <span style="font-size: 0.9em" > with Simone Bertoli, Jordan Loper and Èric Roca Fernández</span> - <strong> Journal of Development Economics </strong> </span>
+
+					<span style="margin-left: 0.7em;"></span>
+					
+					<a class="btn btn-sm" href="https://doi.org/10.1016/j.jdeveco.2025.103505" target="_blank" rel="noopener" > Paper </a>
+					<a class="btn btn-sm" href="https://doi.org/10.3886/E224182V1" target="_blank" rel="noopener" > Replication Files </a>
+					<a class="btn btn-sm" href="https://www.parisschoolofeconomics.eu/actualites/nouveau-policy-brief-sur-lapproche-epidemiologique-du-developpement-comparatif/" target="_blank" rel="noopener" > PSE Policy Brief </a> 	
+				</p>
+			
+				<p>	
+				Understanding cultural persistence and change: A replication of Giuliano and Nunn (2021), <span style="font-size: 0.9em;" > with Simone Bertoli, Jordan Loper and Èric Roca Fernández</span> -<strong> Economic Inquiry </strong> 
+
+					<span style="margin-left:0.7em;"></span>
+					
+					<a class="btn btn-sm" href="https://onlinelibrary.wiley.com/doi/full/10.1111/ecin.13242" target="_blank" rel="noopener" > Paper </a>
+					<a class="btn btn-sm" href="https://doi.org/10.3886/E202861V3" target="_blank" rel="noopener" > Replication Files </a>
+					<a class="btn btn-sm" href="https://academic.oup.com/restud/article/91/1/597/7301480" target="_blank" rel="noopener" > Original Paper Corrigendum </a>
+
+				</p>
+			
+		<br>	
+			
+			<h1> Work in Progress </h1>
+			
+				<p>	Female Genital Cutting and Girl's Mobility in Sub-Saharan Africa <span style="font-size: 1em;"></span> </p>
+				</p>
+
+				<p>	Externalization of Migration policies and the 2015 European Refugee crisis, <span style="font-size: 0.9em;" > with Alice Mesnard </span></p>
+				</p>
+
+			
+    		</div><!-- /.blurb -->
+---
