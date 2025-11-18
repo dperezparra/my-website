@@ -5,34 +5,3 @@
   color: var(--color-primary) !important;
 }
 
-/* Universal approach - targets any link near role */
-[class*="author"] .role,
-[class*="biography"] .role {
-  color: var(--color-primary) !important;
-  font-weight: 600;
-}
-
-/* Target organization links more broadly */
-[class*="author"] a[href*="univ"],
-[class*="biography"] a[href*="univ"],
-[class*="author"] a[href*="erudite"],
-[class*="biography"] a[href*="erudite"] {
-  display: inline-block;
-  padding: 0.35rem 1rem;
-  margin: 0.25rem;
-  background-color: var(--color-primary) !important;
-  color: white !important;
-  border-radius: 0.5rem;
-  text-decoration: none;
-  font-weight: 500;
-  transition: all 0.2s ease;
-}
-
-[class*="author"] a[href*="univ"]:hover,
-[class*="biography"] a[href*="univ"]:hover,
-[class*="author"] a[href*="erudite"]:hover,
-[class*="biography"] a[href*="erudite"]:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.15);
-  opacity: 0.9;
-}

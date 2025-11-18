@@ -15,5 +15,5 @@ sections:
     design:
       view: card
       style: grid
-      columns: "4"
+      columns: "2"
 ---
