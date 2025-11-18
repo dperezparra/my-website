@@ -1,7 +1,8 @@
 ---
 title: > 
-  "Effects of geographic specialization on police effectiveness"
-summary: "*R&R at The Economic Journal*"
+  Effects of geographic specialization on police effectiveness
+summary: > 
+  * R&R at The Economic Journal
 authors:
   - admin
   - Andrés Barrios-Fernández
@@ -13,8 +14,8 @@ date: "2025-09-01"
 publishDate: "2025-09-01T00:00:00Z"
 
 # Keep this as a working paper (or change to article-journal later)
-publication_types: ["working-paper"]
-publication: "*R&R at The Economic Journal*"
+publication_types: ["Working Paper"]
+publication: R&R at The Economic Journal
 publication_short: ""
 
 abstract: >
