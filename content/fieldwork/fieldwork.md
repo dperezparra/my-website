@@ -1,6 +1,5 @@
 ---
-title: 'Cross River State, Nigeria'
-type: landing
+title: 'Qualitative Interviews on Pre-Marital Sex and Female Genital Mutilation in rural Nigeria'
 date: 2024-06-01
 
 design:
@@ -8,7 +7,7 @@ design:
 
 # Featured image
 image:
-  filename: IMG_8282.PNG
+  filename: fieldwork/IMG_8282.PNG
   focal_point: Smart
   preview_only: false
   caption: 'Field research in Cross River State, Nigeria'
