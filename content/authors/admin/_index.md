@@ -17,21 +17,10 @@ role: PhD Candidate in Economics
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: |
-      <div style="background:#1a73e8; color:white; padding:12px; border-radius:10px; 
-                  box-shadow:0 2px 6px rgba(0,0,0,0.15); text-align:center;">
-        Université Gustave Eiffel
-      </div>
+  - name: Université Gustave Eiffel
     url: https://www.univ-gustave-eiffel.fr/
-
-  - name: |
-      <div style="background:#e65100; color:white; padding:12px; border-radius:10px; 
-                  box-shadow:0 2px 6px rgba(0,0,0,0.15); text-align:center;">
-        Érudite
-      </div>
+  - name: Érudite
     url: https://erudite.univ-paris-est.fr/
-
-
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
@@ -60,7 +49,7 @@ education:
       - Thesis: Essays on the Persistence of Harmful Cultural Practices in West Africa 
       - Supervisors: Marine de Talancé • Catherine Bros
       - Visiting PhD Student, supervised by Stefan Dercon (CSAE, University of Oxford)
-      - Dissertation committee: Stefan Dercon (University of Oxford), Sylvie Lambert (Paris School of Economics), Silem Gulesci (Trinity College Dublin) and Paola Villar (Universit´e Paris 1)
+      - Dissertation committee: Stefan Dercon (University of Oxford), Sylvie Lambert (Paris School of Economics), Selim Gulesci (Trinity College Dublin) and Paola Villar (Université Paris 1)
   - area: MSc - Development Economics and International Project Management
     institution: Université Gustave Eiffel (France)
     icon: ""
