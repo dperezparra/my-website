@@ -5,31 +5,66 @@
   color: var(--color-primary) !important;
 }
 
-/* Style organization buttons */
-.hb-author .organizations,
-.resume-biography .organizations,
-.author .organizations {
-  margin-top: 0.5rem;
+/* Color the role line in author cards/blocks */
+.hb-author .role,
+.resume-biography .role,
+.author .role,
+.biography .role,
+.wg-about .role {
+  color: var(--color-primary) !important;
+  font-weight: 600;
 }
 
+/* Style organization buttons - more comprehensive selectors */
+.hb-author .organization,
+.hb-author .organizations,
+.resume-biography .organization,
+.resume-biography .organizations,
+.author .organization,
+.author .organizations,
+.biography .organization,
+.biography .organizations,
+.wg-about .organization,
+.wg-about .organizations {
+  margin-top: 0.5rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  justify-content: center;
+}
+
+.hb-author .organization a,
 .hb-author .organizations a,
+.resume-biography .organization a,
 .resume-biography .organizations a,
-.author .organizations a {
+.author .organization a,
+.author .organizations a,
+.biography .organization a,
+.biography .organizations a,
+.wg-about .organization a,
+.wg-about .organizations a {
   display: inline-block;
-  padding: 0.25rem 0.75rem;
-  margin: 0.25rem;
+  padding: 0.35rem 1rem;
   background-color: var(--color-primary);
   color: white !important;
-  border-radius: 0.375rem;
+  border-radius: 0.5rem;
   text-decoration: none;
   font-size: 0.9em;
+  font-weight: 500;
   transition: all 0.2s ease;
 }
 
+.hb-author .organization a:hover,
 .hb-author .organizations a:hover,
+.resume-biography .organization a:hover,
 .resume-biography .organizations a:hover,
-.author .organizations a:hover {
+.author .organization a:hover,
+.author .organizations a:hover,
+.biography .organization a:hover,
+.biography .organizations a:hover,
+.wg-about .organization a:hover,
+.wg-about .organizations a:hover {
   background-color: var(--color-primary-dark);
   transform: translateY(-2px);
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.15);
 }
