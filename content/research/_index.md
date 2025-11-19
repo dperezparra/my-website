@@ -21,10 +21,12 @@ sections:
       show_read_more: true
   - block: collection
     content:
-      title: Recent Publications
+      title: Ongoing Work
       text: ''
       filters:
         folders:
-          - publication
+          - publications
         exclude_featured: false
+    design:
+      view: citation
 ---
