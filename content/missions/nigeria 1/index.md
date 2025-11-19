@@ -1,5 +1,5 @@
 ---
-title: Nigeria 1
+title: Qualitative Surveys in Central and Southern Nigeria
 date: 2023-10-26
 
 image:
@@ -11,5 +11,3 @@ tags:
   - Female Genital Mutilation
   - Pre-marital sex
 ---
-
-<!--more-->
